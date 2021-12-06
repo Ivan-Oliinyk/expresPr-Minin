@@ -1,3 +1,23 @@
 .nav-wrapper {
   padding: 0 2rem;
 }
+
+.wrapper-card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.wrapper-card .row {
+  /* min-width: 385px; */
+  max-width: 385px;
+  margin: 0;
+}
+
+.wrapper-card .card-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 365px;
+  padding: 10px;
+}

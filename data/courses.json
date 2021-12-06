@@ -1,8 +1,1 @@
-[
-  {
-    "title": "Angular",
-    "price": "1200",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
-    "id": "591890ac-1f60-47e7-be97-d095ec7b85da"
-  }
-]
+[{"title":"Angular","price":"1200","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png","id":"591890ac-1f60-47e7-be97-d095ec7b85da"},{"title":"View ","price":"900","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png","id":"34478853-4a4d-453b-adc5-40c8a9ef679d"},{"title":"React","price":"1759","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png","id":"0f97181d-7131-4c43-a21d-75ac950fc38b"}]
